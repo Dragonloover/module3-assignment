@@ -40,12 +40,5 @@ body{
 	color: black;
 }
 
-#main-content h3{
-	text-align: center;
-}
-
-#main-content section:nth-child(3){
-	margin-bottom: 20px;
-}
 
 /*End Main Page*/
